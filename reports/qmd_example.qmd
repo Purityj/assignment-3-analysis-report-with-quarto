@@ -10,6 +10,7 @@ editor: source
 execute:
     enabled: true
     echo: false
+    fig-path: "../docs/images"
 
 bibliography: references.bib
 ---
